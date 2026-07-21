@@ -16,7 +16,13 @@ Software Engineer | C++ · Java · Python · GraalVM · Apache Flink
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,kafka,aws,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=kafka" title="Apache Kafka" alt="Apache Kafka" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/GraalVM-FF3E00?style=for-the-badge&logo=graalvm&logoColor=white" />
