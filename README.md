@@ -27,8 +27,8 @@ Software Engineer | C++ · Java · Python · GraalVM · Apache Flink
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliAkbarBaloch&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAkbarBaloch&layout=compact&theme=react&hide_border=true" />
+  <img height="180em" src="./profile/stats.svg" />
+  <img height="180em" src="./profile/top-langs.svg" />
 </p>
 
 ### 🔥 Streak Stats
