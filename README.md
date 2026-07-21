@@ -49,8 +49,15 @@ Software Engineer | C++ · Java · Python · GraalVM · Apache Flink
   <img src="https://github-profile-trophy-tawny.vercel.app/?username=AliAkbarBaloch&theme=react&no-frame=true&row=1&column=6" />
 </p>
 
-<!-- Optional: contribution graph animation -->
 ### 📈 Contribution Graph
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliAkbarBaloch/AliAkbarBaloch/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliAkbarBaloch/AliAkbarBaloch/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/AliAkbarBaloch/AliAkbarBaloch/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliAkbarBaloch&theme=react-dark" />
