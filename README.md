@@ -40,7 +40,7 @@ Software Engineer | C++ · Java · Python · GraalVM · Apache Flink
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AliAkbarBaloch&theme=react&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=AliAkbarBaloch&theme=react&no-frame=true&row=1&column=6" />
 </p>
 
 <!-- Optional: contribution graph animation -->
