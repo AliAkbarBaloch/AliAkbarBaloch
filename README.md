@@ -4,7 +4,6 @@
 
 Software Engineer at Ververica (the original creators of Apache Flink), researching GraalVM Native Image compilation for Flink — reducing startup latency and memory footprint for cloud-native stream processing. Pursuing an MSc in AI Engineering at the University of Passau. Background in fintech and payments engineering: reduced latency by 30% in a C++ trading engine and built fraud-detection pipelines processing 10M+ transactions/day.
 
-📍 Based in Germany · Open to Software Engineering, AI Engineering, and Backend Engineering roles
 
 ## Selected Engineering Work
 
